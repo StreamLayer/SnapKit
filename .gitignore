@@ -6,3 +6,7 @@ Examples/
 Gemfile
 Gemfile.lock
 *.sketch
+Carthage/Build
+DerivedData/
+*.framework.zip
+*/xcshareddata/IDEWorkspaceChecks.plist
