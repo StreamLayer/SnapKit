@@ -10,3 +10,4 @@ Carthage/Build
 DerivedData/
 *.framework.zip
 */xcshareddata/IDEWorkspaceChecks.plist
+.swiftpm
