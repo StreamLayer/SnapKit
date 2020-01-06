@@ -1,0 +1,7 @@
+SnapKit-Package:
+  project: SnapKit.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
+  - appletvos
+  - appletvsimulator

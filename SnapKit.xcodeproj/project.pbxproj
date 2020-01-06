@@ -584,8 +584,8 @@
       "OBJ_50" = {
          isa = "PBXGroup";
          children = (
-            "SnapKit::SnapKit::Product",
-            "SnapKit::SnapKitTests::Product"
+            "SnapKit::SnapKitTests::Product",
+            "SnapKit::SnapKit::Product"
          );
          name = "Products";
          path = "";
