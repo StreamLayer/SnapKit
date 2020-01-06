@@ -11,3 +11,6 @@ DerivedData/
 *.framework.zip
 */xcshareddata/IDEWorkspaceChecks.plist
 .swiftpm
+node_modules
+*.zip
+*.lock
