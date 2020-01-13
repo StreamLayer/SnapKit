@@ -27,7 +27,8 @@ workflows:
             swift-prefixify rewrite $TMPDIR/$DIR $PWD/$DIR \
               --report $REPORT \
               --prefix $PREFIX \
-              --product-name "$PRODUCT_NAME"
+              --product-name "$PRODUCT_NAME" \
+              --rewrite slr:snp
 
             swift package generate-xcodeproj
 
